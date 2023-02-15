@@ -9,3 +9,7 @@
 * 24.-26.4. Visualizations in PowerBI
 * 27.-28.4. Creating representative .ipynb files with comments
 * TO be Done: Many things, mentioned in the files (full automatization, reporting, historical prices via Insidero?, checks, better time estimates, GPS smoothing, better way to handle extreme values, ...)
+
+
+## TODO: 
+- omezit vyhledavani na https://www.sreality.cz/hledani/prodej/byty/praha-5,praha-6,praha-7?plocha-od=80&plocha-do=10000000000&cena-od=0&cena-do=20000000
